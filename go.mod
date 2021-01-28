@@ -1,5 +1,4 @@
-module github.com/guozhe001/supply-finance/chaincode-go
-
+module github.com/guozhe001/supply-finance-chaincode-go
 go 1.14
 
 require (

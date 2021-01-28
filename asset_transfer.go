@@ -9,7 +9,7 @@ import (
 	"crypto/sha256"
 	"encoding/json"
 	"fmt"
-	"github.com/guozhe001/supply-finance/chaincode-go/chaincode"
+	"github.com/guozhe001/supply-finance-chaincode-go/chaincode"
 	"log"
 	"time"
 
